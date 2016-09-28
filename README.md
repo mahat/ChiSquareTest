@@ -1,5 +1,5 @@
 # Goal
-Implementing Chi-Square Test on two different examples
+Implementing Chi-Square Test on two different examples on Python
 
 # Hypotheses
 - Chi-square test for fitting 
