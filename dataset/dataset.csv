@@ -1,0 +1,10 @@
+;Sales Revenue in millions;
+;Before Strategic Change;After Strategic Change
+Price <$30;115;126
+$30 - $40;38;40
+$40 - $50;37;35
+$50 - $60;30;27
+$60 - $70;22;20
+$70 - $85;21;20
+$85 - $120;11;11
+Price > $120;17;18
